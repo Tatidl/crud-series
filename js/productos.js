@@ -3,7 +3,7 @@ createApp({
     data() {
         return {
             productos: [],
-            url: 'http://fraic818.pythonanywhere.com/series',
+            url: 'https://fraic818.pythonanywhere.com/series',
             error: false,
             cargando: true,
             /*atributos para el guardar los valores del formulario */

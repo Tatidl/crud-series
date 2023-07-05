@@ -12,7 +12,7 @@ createApp({
             calificacion: 0,
             genero: "",
             temporadas: 0,
-            url: 'http://fraic818.pythonanywhere.com/series/' + id,
+            url: 'https://fraic818.pythonanywhere.com/series/' + id,
         }
     },
     methods: {
